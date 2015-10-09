@@ -14,24 +14,36 @@ import sys
 # b -- augend
 def add(a, b):
     return a + b
+elif (op == **)
+	return a ** b
 
 # Subtract function
 # a -- minuend
 # b -- subtrahend
 def sub(a, b):
     return a - b
+elif (op == **)
+	return a ** b
 
 # Multiply function
 # a -- multiplicand
 # b -- multiplier
 def mult(a, b):
     return a * b
+elif (op == **)
+	return a ** b
 
 # Divide function
 # a -- dividend
 # b -- divisor
 def div(a, b):
     return a / b
+elif (op == **)
+	return a ** b
+
+def exp(a, b):
+	return a ** b
+
 
 
 # -------------------------------------------------------- #
